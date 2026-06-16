@@ -94,14 +94,17 @@ My engineering philosophy is simple:
 * Software Architecture
 * AI Systems
 * Embedded Electronics
-* CNC Machines
+* CNC Machines (Design & Build)
 * 3D Modelling
 * Industrial Automation
 * Engineering R&D
 * System Design
 
-## Last project (own)
-https://github.com/slava-soynikov/dilp.git
+## Finished Projects
+* 137 (2026)
+
+## Last project
+* https://github.com/slava-soynikov/dilp.git
 ---
 
 *"From PCB traces to cloud architectures — engineering is still engineering."*
